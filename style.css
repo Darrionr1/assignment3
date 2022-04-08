@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+}
+
+table {
+    border-style: solid;
+    position: absolute;
+    left: 33%;
+}
+
+tr, td {
+
+    text-align: center;
+}
